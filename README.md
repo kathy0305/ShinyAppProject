@@ -17,5 +17,11 @@ The app also provides several tabs, where the user can see summary of the data, 
 For more information about this app and the code used please visit
 https://github.com/kathy0305/ShinyAppProject.git
 
+### App link
+https://kathy0305.shinyapps.io/3_major_fl_springs_attendance_by_year
+
+### App slide presentation
+http://rpubs.com/kathy0305/270000
+
 
 
